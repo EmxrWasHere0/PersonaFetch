@@ -20,3 +20,5 @@ You can customize options in `persona_fetch.py` file. But if you want to customi
 4. Get the output as `.txt` file and move it to `logos` folder<br><br>
 5. Use the exact name of the `.txt` file while selecting `System/Distro name`<br><br>
 6. Voila! It's ready to use everywhere!
+<br><br>
+On development   
